@@ -1,7 +1,7 @@
 
 #  Tableau : Electric Vehicles Analysis
 
-##### Dashboard Link :https://public.tableau.com/app/profile/yadnesh.rane1255/viz/Dashboardv0_11/ElectricVehiclesAnalysis?publish=yes
+#### Dataset : https://www.kaggle.com/datasets/yashusinghal/electric-vehicle-population-dataset
 
 ## 📝Problem Statement
 
@@ -51,6 +51,8 @@
 ---------
 
 ### Dashboard Snippet 📸
+
+##### Dashboard Link :https://public.tableau.com/app/profile/yadnesh.rane1255/viz/Dashboardv0_11/ElectricVehiclesAnalysis?publish=yes
 
 
 ![Electric Vehicles Analysis (1)](https://github.com/user-attachments/assets/42d5c23e-453e-4bc7-8f8b-54f41a145158)
