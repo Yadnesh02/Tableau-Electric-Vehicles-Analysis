@@ -8,7 +8,7 @@
 ### KPI'S Requirement 🎯
 
 #### Total Vehicles: 
-- Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
+- Understand the overall landscape of electric vehicles for BEVs and PHEVs, to assess the market's size and growth.
 
 #### Average Electric Range: 
 - Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
@@ -42,7 +42,7 @@
 
 #### Total Vehicles by CAFV Eligibility:
 - Visualisation: Pie Chart or Donut Chart
-- Description: Illustrate the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, aiding in understanding the impact of incentives on vehicle adoption.
+- Description: Illustrate the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, understanding the impact of incentives on vehicle adoption.
 
 #### Total Vehicles by Model:
 - Visualisation: Grid View
